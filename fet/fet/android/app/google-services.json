@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670863775645",
+    "project_id": "food-expiry-tracker-f807e",
+    "storage_bucket": "food-expiry-tracker-f807e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670863775645:android:de22eea90c295918558174",
+        "android_client_info": {
+          "package_name": "com.example.fet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGa_W68y7CtrldG4o1TalGPn2X-SqNVXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

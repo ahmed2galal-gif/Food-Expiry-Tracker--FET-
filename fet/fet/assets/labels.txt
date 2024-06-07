@@ -1,0 +1,10 @@
+0 Apple
+1 Banana
+2 Eggs
+3 Potato
+4 Carrot
+5 Cucumber
+6 Tomato
+7 Grape
+8 Mango
+9 Strawberry
